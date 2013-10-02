@@ -1,0 +1,7 @@
+{
+  "git_status_bar": "simple",
+  "git_extensions": {
+        "git_flow": false,
+        "legit": false
+    }
+}
