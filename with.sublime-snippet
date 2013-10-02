@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+with(:${1:args})
+]]></content>
+  <tabTrigger>with</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>with block</description>
+</snippet>

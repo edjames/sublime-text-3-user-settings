@@ -1,0 +1,6 @@
+.DS_STORE
+*.last-run
+*.pyc
+Package\ Control.sublime-settings
+Package Control.cache
+Package Control.system-ca-bundle

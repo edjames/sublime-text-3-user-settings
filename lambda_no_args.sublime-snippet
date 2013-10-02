@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+-> { ${1} }
+]]></content>
+  <tabTrigger>lam</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>-> { ... }</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+specify { $0 }
+]]></content>
+  <tabTrigger>spec</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>new specify block</description>
+</snippet>
