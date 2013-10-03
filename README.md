@@ -13,7 +13,7 @@ Once you have ST3 running, you're ready to proceed...
 Open a Terminal and run these commands:
 
     cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
-    mv User User-BAK
+    rm -rf User
     git clone git@github.com:edjames/sublime-text-3-user-settings.git User
 
 Restart ST3.
@@ -23,9 +23,11 @@ Restart ST3.
 Some plugins are not yet available through Package Control (yet) so they have ot be manually installed, as follows:
 
 	cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
-	git clone http://github.com/noklesta/SublimeRailsNav
-	git clone https://github.com/NaN1488/sublime-gem-browser.git
 	git clone git://github.com/SublimeText/RSpec.git
+	git clone https://github.com/NaN1488/sublime-gem-browser.git
+	git clone http://github.com/noklesta/SublimeRailsNav
+	cd SublimeRailsNav
+	git checkout ST3
 
 Restart ST3.
 
