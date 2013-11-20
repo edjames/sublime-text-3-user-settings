@@ -32,7 +32,7 @@
 		]
 	},
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Monokai Dark.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -95,7 +95,7 @@
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Sodarized Dark 3.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
