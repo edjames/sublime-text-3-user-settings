@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+expect { $1 }.to $2
+]]></content>
+  <tabTrigger>ex</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>new expect block with proc</description>
+</snippet>
