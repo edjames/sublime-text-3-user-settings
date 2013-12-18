@@ -34,6 +34,7 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
+	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
