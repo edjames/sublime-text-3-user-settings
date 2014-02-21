@@ -77,7 +77,6 @@
 		".svn",
 		".zeus.sock",
 		"bundle",
-		"bin",
 		"coverage",
 		"design0n1y",
 		"log",
