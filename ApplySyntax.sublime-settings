@@ -10,5 +10,11 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+        {
+            "name": "Ruby/Ruby",
+            "rules": [
+                {"file_name": ".*\\.god$"}
+            ]
+        },
     ]
 }
