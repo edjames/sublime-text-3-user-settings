@@ -17,5 +17,11 @@
                 {"file_name": ".*\\.god$"}
             ]
         },
+        {
+            "name": "ShellScript/Shell-Unix-Generic",
+            "rules": [
+                {"file_name": ".*\\.symlink.*$"}
+            ]
+        }
     ]
 }
