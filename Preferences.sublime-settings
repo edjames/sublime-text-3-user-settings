@@ -64,7 +64,8 @@
 		"development_structure.sql",
 		"structure.sql",
 		"*.sublime-project",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+		"*.dat"
 	],
 	"folder_exclude_patterns":
 	[
