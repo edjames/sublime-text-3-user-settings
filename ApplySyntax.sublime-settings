@@ -25,6 +25,7 @@
             "rules": [
                 {"file_name": ".*\\.after-mac-dots$"},
                 {"file_name": ".*\\.before-mac-dots$"},
+                {"file_name": ".*\\.macdots_function$"},
                 {"file_name": ".*\\.symlink.*$"}
             ]
         }
