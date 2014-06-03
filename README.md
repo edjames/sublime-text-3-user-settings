@@ -36,13 +36,18 @@ Restart ST3.
 Package Control settings are not in source control.
 These are the installed packages:
 
+- AdvancedNewFile
 - Alignment
 - ApplySyntax
 - BeautifyRuby
 - CTags
 - jQuery
 - JsFormat
+- RSpec
+- Sass
 - SideBarEnhancements
+- sublime-gem-browser
 - SublimeGit
+- SublimeRailsNav
 - Theme - Soda
 - Theme - Sodarized
