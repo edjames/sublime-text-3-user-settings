@@ -40,7 +40,9 @@ These are the installed packages:
 - Alignment
 - ApplySyntax
 - BeautifyRuby
+- Better CoffeeScript
 - CTags
+- GitGutter
 - jQuery
 - JsFormat
 - RSpec
