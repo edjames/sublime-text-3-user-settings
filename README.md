@@ -41,7 +41,7 @@ These are the installed packages:
 - ApplySyntax
 - BeautifyRuby
 - Better CoffeeScript
-- CTags
+- EmberScript
 - GitGutter
 - jQuery
 - JsFormat
