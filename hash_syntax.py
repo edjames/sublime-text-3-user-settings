@@ -1,3 +1,5 @@
+# https://github.com/zhuravel/dotfiles/blob/master/sublime-text/hash_syntax.py
+
 import sublime, sublime_plugin, re
 
 def new_style_hash(matchobj):

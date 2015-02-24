@@ -1,3 +1,5 @@
+# https://github.com/zhuravel/dotfiles/blob/master/sublime-text/close_other_tabs.py
+
 import sublime, sublime_plugin
 
 class CloseOtherTabs(sublime_plugin.TextCommand):
