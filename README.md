@@ -37,6 +37,8 @@ All packages need to be installed in the same location:
 [https://github.com/noklesta/SublimeRailsNav](https://github.com/noklesta/SublimeRailsNav)
 
     git clone git://github.com/noklesta/SublimeRailsNav
+    cd SublimeRailsNav
+    git checkout ST3
 
 ###### SublimeToggleSymbol
 
