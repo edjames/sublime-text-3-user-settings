@@ -22,12 +22,19 @@ Restart ST3.
 
 Some plugins are not yet available through Package Control (yet) so they have ot be manually installed, as follows:
 
-	cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
-	git clone git://github.com/SublimeText/RSpec.git
-	git clone https://github.com/NaN1488/sublime-gem-browser.git
-	git clone http://github.com/noklesta/SublimeRailsNav
-	cd SublimeRailsNav
-	git checkout ST3
+###### BeautifyRuby
+
+[https://github.com/CraigWilliams/BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby)
+
+    cd "~/Library/Application Support/Sublime Text 2/Packages/"
+    git clone git://github.com/CraigWilliams/BeautifyRuby
+
+###### SublimeRailsNav
+
+[https://github.com/noklesta/SublimeRailsNav](https://github.com/noklesta/SublimeRailsNav)
+
+    cd "~/Library/Application Support/Sublime Text 2/Packages/"
+    git clone http://github.com/noklesta/SublimeRailsNav
 
 Restart ST3.
 
@@ -39,7 +46,6 @@ These are the installed packages:
 - AdvancedNewFile
 - Alignment
 - ApplySyntax
-- BeautifyRuby
 - Better CoffeeScript
 - CTags
 - EmberScript
@@ -51,6 +57,5 @@ These are the installed packages:
 - SideBarEnhancements
 - sublime-gem-browser
 - SublimeGit
-- SublimeRailsNav
 - Theme - Soda
 - Theme - Sodarized

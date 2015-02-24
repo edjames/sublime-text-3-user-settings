@@ -3,4 +3,6 @@
 *.pyc
 Package\ Control.sublime-settings
 Package Control.cache
+Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
+Package Control.user-ca-bundle
