@@ -22,19 +22,27 @@ Restart ST3.
 
 Some plugins are not yet available through Package Control (yet) so they have ot be manually installed, as follows:
 
+All packages need to be installed in the same location:
+
+    cd "~/Library/Application Support/Sublime Text 3/Packages/"
+
 ###### BeautifyRuby
 
 [https://github.com/CraigWilliams/BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby)
 
-    cd "~/Library/Application Support/Sublime Text 2/Packages/"
     git clone git://github.com/CraigWilliams/BeautifyRuby
 
 ###### SublimeRailsNav
 
 [https://github.com/noklesta/SublimeRailsNav](https://github.com/noklesta/SublimeRailsNav)
 
-    cd "~/Library/Application Support/Sublime Text 2/Packages/"
-    git clone http://github.com/noklesta/SublimeRailsNav
+    git clone git://github.com/noklesta/SublimeRailsNav
+
+###### SublimeToggleSymbol
+
+[https://github.com/zoomix/SublimeToggleSymbol](https://github.com/zoomix/SublimeToggleSymbol)
+
+    git clone git://github.com/zoomix/SublimeToggleSymbol
 
 Restart ST3.
 
@@ -48,14 +56,16 @@ These are the installed packages:
 - ApplySyntax
 - Better CoffeeScript
 - CTags
-- EmberScript
 - GitGutter
 - jQuery
 - JsFormat
 - RSpec
+- Ruby Block Converter
+- Ruby Hash Converter
 - Sass
 - SideBarEnhancements
 - sublime-gem-browser
 - SublimeGit
 - Theme - Soda
 - Theme - Sodarized
+- ToggleQuotes

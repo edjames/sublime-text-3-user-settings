@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[require 'pry'; binding.pry]]></content>
+  <tabTrigger>pry</tabTrigger>
+  <description>pry binding</description>
+</snippet>

@@ -12,5 +12,18 @@
   { "keys": ["super+ctrl+x"], "command": "list_rails_fixtures" },
   { "keys": ["super+ctrl+t"], "command": "list_rails_tests" },
   { "keys": ["super+ctrl+j"], "command": "list_rails_javascripts" },
-  { "keys": ["super+ctrl+y"], "command": "list_rails_stylesheets" }
+  { "keys": ["super+ctrl+y"], "command": "list_rails_stylesheets" },
+
+  // Convert Ruby 1.8 hashes to Ruby 1.9 syntax
+  { "keys": ["super+shift+h"], "command": "hash_syntax" },
+
+  // Convert Ruby blocks in brace to "do end" and vice versa
+  { "keys": ["super+shift+["], "command": "do_end_to_brace" },
+  { "keys": ["super+shift+]"], "command": "brace_to_do_end" },
+
+  // Toggle string to symbol
+  { "keys": ["super+shift+;"], "command": "toggle_symbol" },
+
+  // Close all other tabs
+  { "keys": ["super+alt+w"], "command": "close_other_tabs" }
 ]
