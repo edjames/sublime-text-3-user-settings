@@ -1,8 +1,10 @@
 [
   // override defaults
-  { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
   { "keys": ["super+ctrl+v"], "command": "unbound" },
   { "keys": ["super+ctrl+t"], "command": "unbound" },
+
+  // advanced new file
+  { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
 
   // Simple Rails Nav
   { "keys": ["super+ctrl+m"], "command": "list_rails_models" },
@@ -18,8 +20,8 @@
   { "keys": ["super+shift+h"], "command": "hash_syntax" },
 
   // Convert Ruby blocks in brace to "do end" and vice versa
-  { "keys": ["super+shift+["], "command": "do_end_to_brace" },
-  { "keys": ["super+shift+]"], "command": "brace_to_do_end" },
+  { "keys": ["super+alt+left"], "command": "do_end_to_brace" },
+  { "keys": ["super+alt+right"], "command": "brace_to_do_end" },
 
   // Toggle string to symbol
   { "keys": ["super+shift+;"], "command": "toggle_symbol" },
