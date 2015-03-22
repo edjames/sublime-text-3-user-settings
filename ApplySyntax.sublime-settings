@@ -17,7 +17,8 @@
                 {"file_name": ".*\\.irbrc$"},
                 {"file_name": ".*\\.procsrc$"},
                 {"file_name": ".*\\.railsrc$"},
-                {"file_name": ".*\\.god$"}
+                {"file_name": ".*\\.god$"},
+                {"file_name": ".*\\Cheffile$"}
             ]
         },
         {
