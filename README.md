@@ -2,7 +2,7 @@
 
 ### Pre-installation
 
-Follow this guide on how to get Sublime Text 3 up and running on your system: 
+Follow this guide on how to get Sublime Text 3 up and running on your system:
 
 [http://rosslawley.co.uk/posts/switching-to-sublimetext-3/](http://rosslawley.co.uk/posts/switching-to-sublimetext-3/)
 
@@ -62,6 +62,7 @@ These are the installed packages:
 - ApplySyntax
 - Better CoffeeScript
 - CTags
+- Dash
 - GitGutter
 - jQuery
 - JsFormat
