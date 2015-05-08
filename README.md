@@ -64,6 +64,7 @@ These are the installed packages:
 - CTags
 - Dash
 - GitGutter
+- Javatar
 - jQuery
 - JsFormat
 - RSpec
