@@ -13,22 +13,12 @@
 	"message_id": 20,
 	"project_data":
 	{
-		"18":
-		{
-			"folders":
-			[
-				{
-					"path": "/Users/edjames/Library/Application Support/Sublime Text 3/Packages/User"
-				}
-			]
-		},
 		"2":
 		{
 			"folders":
 			[
 				{
-					"follow_symlinks": true,
-					"path": "/Users/edjames/Development/vzaar/vzaar-app"
+					"path": "/Users/edjames/Development/vzaar/vzaar-bg"
 				}
 			]
 		}
