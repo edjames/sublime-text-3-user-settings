@@ -18,7 +18,8 @@
                 {"file_name": ".*\\.procsrc$"},
                 {"file_name": ".*\\.railsrc$"},
                 {"file_name": ".*\\.god$"},
-                {"file_name": ".*\\Cheffile$"}
+                {"file_name": ".*\\Cheffile$"},
+                {"file_name": ".*\\Procfile$"}
             ]
         },
         {
