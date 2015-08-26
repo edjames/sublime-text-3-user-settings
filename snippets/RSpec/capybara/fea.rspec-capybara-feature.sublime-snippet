@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[feature '$1' do
+  $2
+end]]></content>
+	<tabTrigger>fea</tabTrigger>
+	<string>source.ruby.rspec</string>
+	<description>RSpec Capybara feature</description>
+</snippet>

@@ -80,6 +80,9 @@ If you want to contribute:
 - Commit and push until you are happy with your contribution
 - Send me a pull request
 
+### Credits
+- Snippets from [https://github.com/tennantje/railsdev-sublime-snippets](https://github.com/tennantje/railsdev-sublime-snippets)
+
 ### Copyright
 
 Copyright (c) 2015 Ed James. See LICENSE for details.

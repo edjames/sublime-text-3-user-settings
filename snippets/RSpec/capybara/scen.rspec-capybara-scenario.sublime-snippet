@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[scenario '$1' do
+  $2
+end]]></content>
+	<tabTrigger>scen</tabTrigger>
+	<string>source.ruby.rspec</string>
+	<description>RSpec Capybara scenario</description>
+</snippet>

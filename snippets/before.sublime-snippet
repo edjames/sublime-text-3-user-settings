@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-before { $0 }
-]]></content>
-  <tabTrigger>befo</tabTrigger>
-  <scope>source.ruby.rspec</scope>
-  <description>new 1-line before block</description>
-</snippet>

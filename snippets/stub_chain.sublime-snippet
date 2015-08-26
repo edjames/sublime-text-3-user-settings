@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-${1:mock}.stub_chain(:${2:variable})
-]]></content>
-  <tabTrigger>stubc</tabTrigger>
-  <scope>source.ruby.rspec</scope>
-  <description>new stub_chain block</description>
-</snippet>

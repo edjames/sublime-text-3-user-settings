@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${1:name}: "${2:value}"
+]]></content>
+  <tabTrigger>kv</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>Ruby key: "value"</description>
+</snippet>

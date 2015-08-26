@@ -1,8 +1,0 @@
-<snippet>
-  <content><![CDATA[
-subject { $0 }
-]]></content>
-  <tabTrigger>sbj</tabTrigger>
-  <scope>source.ruby.rspec</scope>
-  <description>new subject block</description>
-</snippet>
