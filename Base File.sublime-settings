@@ -2,8 +2,8 @@
 // are overridden in turn by file type specific settings. Place your settings
 // here, to ensure they're preserved when upgrading.
 {
-  "alignment_chars": ["=",":","|"],
-  "alignment_space_chars": ["=",":","|"],
+  "alignment_chars": ["=","=>","|"],
+  "alignment_space_chars": ["=","|"],
 
   "codeintel_disabled_languages":
     [

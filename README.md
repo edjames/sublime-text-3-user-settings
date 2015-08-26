@@ -30,12 +30,6 @@ All packages need to be installed in the same location:
 
     cd "~/Library/Application Support/Sublime Text 3/Packages/"
 
-###### BeautifyRuby
-
-[https://github.com/CraigWilliams/BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby)
-
-    git clone git://github.com/CraigWilliams/BeautifyRuby
-
 ###### SublimeRailsNav
 
 [https://github.com/noklesta/SublimeRailsNav](https://github.com/noklesta/SublimeRailsNav)
@@ -60,6 +54,7 @@ These are the installed packages:
 - AdvancedNewFile
 - Alignment
 - ApplySyntax
+- BeautifyRuby
 - Better CoffeeScript
 - CTags
 - Dash
