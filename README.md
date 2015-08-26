@@ -55,7 +55,6 @@ These are the installed packages:
 - Alignment
 - ApplySyntax
 - BeautifyRuby
-- CTags
 - Dash
 - GitGutter
 - jQuery
