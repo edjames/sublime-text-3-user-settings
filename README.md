@@ -55,7 +55,6 @@ These are the installed packages:
 - Alignment
 - ApplySyntax
 - BeautifyRuby
-- Better CoffeeScript
 - CTags
 - Dash
 - GitGutter
@@ -64,7 +63,6 @@ These are the installed packages:
 - RSpec
 - Ruby Block Converter
 - Ruby Hash Converter
-- Sass
 - SideBarEnhancements
 - sublime-gem-browser
 - SublimeGit
