@@ -91,8 +91,7 @@
 		"tmp"
 	],
 	"font_face": "Monaco",
-	// "font_options": ["gray_antialias"],
-	"font_size": 13.0,
+  "font_size": 13.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
