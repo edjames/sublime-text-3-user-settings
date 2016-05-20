@@ -65,8 +65,7 @@ These are the installed packages:
 - SideBarEnhancements
 - sublime-gem-browser
 - SublimeGit
-- Theme - Soda
-- Theme - Sodarized
+- Theme - Otto
 - ToggleQuotes
 
 ### Contributing
