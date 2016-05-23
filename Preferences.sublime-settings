@@ -38,7 +38,6 @@
 	},
 	"bold_folder_labels": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Theme - Otto/schemes/Otto Tomorrow.tmTheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"enable_tab_scrolling": false,
@@ -46,7 +45,8 @@
 	"file_exclude_patterns":
 	[
 		".DS_Store",
-		".tags*",
+    ".tags*",
+		".gemtags",
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -91,7 +91,6 @@
 		"tmp"
 	],
 	"font_face": "Monaco",
-  // "font_options": ["gray_antialias"],
 	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -99,19 +98,25 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 0,
+	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"rulers": false,
 	"scroll_past_end": true,
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
 	"tab_size": 2,
-	"theme": "Otto Tomorrow.sublime-theme",
-	"theme_otto_tab_auto_width": true,
-	"theme_otto_tab_selected_prelined": true,
-	"theme_otto_tab_small": true,
+  "theme": "Material Seti.sublime-theme",
+  "color_scheme": "Packages/Materialize/schemes/Material Seti.tmTheme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~",
-	"word_wrap": false
+	"word_wrap": false,
+
+  "material_theme_tabs_autowidth" : true,
+  "material_theme_compact_sidebar": true,
+  "material_theme_small_tab": true,
+  "material_theme_accent_lime": true,
+  "caret_extra_width": 2,
+  "caret_style": "phase",
+  "overlay_scroll_bars": "enabled"
 }
