@@ -54,6 +54,7 @@ These are the installed packages:
 - AdvancedNewFile
 - Alignment
 - ApplySyntax
+- Babel
 - BeautifyRuby
 - Dash
 - GitGutter
