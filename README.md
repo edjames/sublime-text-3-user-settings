@@ -56,6 +56,8 @@ These are the installed packages:
 - ApplySyntax
 - Babel
 - BeautifyRuby
+- Babel
+- Boxy
 - Dash
 - GitGutter
 - jQuery
@@ -66,7 +68,6 @@ These are the installed packages:
 - SideBarEnhancements
 - sublime-gem-browser
 - SublimeGit
-- Theme - Otto
 - ToggleQuotes
 
 ### Contributing

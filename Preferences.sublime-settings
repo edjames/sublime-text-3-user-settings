@@ -37,15 +37,19 @@
 		]
 	},
 	"bold_folder_labels": true,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
 	"close_windows_when_empty": true,
+  "color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
 		".DS_Store",
-    ".tags*",
+		".tags*",
 		".gemtags",
 		"*.pyc",
 		"*.pyo",
@@ -98,36 +102,33 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"overlay_scroll_bars": "system",
 	"rulers": false,
 	"scroll_past_end": true,
+	"show_encoding": true,
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
 	"tab_size": 2,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_accent_blue": true,
+	"theme_find_panel_close_hidden": true,
+	"theme_quick_panel_size_xs": true,
+	"theme_scrollbar_colored": true,
+	"theme_scrollbar_line": true,
+	"theme_size_sm": true,
+	"theme_tab_arrows_hidden": true,
+	"theme_tab_selected_filled": true,
+	"theme_tab_separator": true,
+	"theme_tab_size_xs": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~",
-	"word_wrap": false,
-
-  "caret_extra_width": 2,
-  "caret_style": "phase",
-  "fade_fold_buttons": false,
-  "indent_guide_options": ["draw_normal", "draw_active"],
-  "overlay_scroll_bars": "enabled",
-
-  "color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
-  "overlay_scroll_bars": "system",
-  "theme": "Boxy Tomorrow.sublime-theme",
-  "theme_accent_purple": true,
-  "theme_find_panel_close_hidden": true,
-  "theme_quick_panel_size_xs": true,
-  "theme_scrollbar_colored": true,
-  "theme_scrollbar_line": true,
-  "theme_size_sm": true,
-  "theme_tab_arrows_hidden": true,
-  "theme_tab_selected_filled": true,
-  "theme_tab_separator": true,
-  "theme_tab_size_xs": true,
-  "show_encoding": true
+	"word_wrap": false
 }
