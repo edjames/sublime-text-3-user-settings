@@ -59,7 +59,6 @@ These are the installed packages:
 - Babel
 - Boxy
 - Dash
-- Emmet
 - GitGutter
 - jQuery
 - JsFormat
