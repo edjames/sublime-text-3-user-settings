@@ -90,7 +90,8 @@
 		".zeus.sock",
 		"bundle",
 		"coverage",
-		"design0n1y",
+    "design0n1y",
+		"public/assets",
 		"log",
 		"tmp"
 	],
