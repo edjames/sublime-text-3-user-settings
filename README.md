@@ -57,16 +57,17 @@ These are the installed packages:
 - Babel
 - BeautifyRuby
 - Babel
-- Boxy
-- Dash
+- Boxy Theme
+- DashDoc
+- Gem Browser
 - GitGutter
 - jQuery
 - JsFormat
+- PackageResourceViewer
 - RSpec
 - Ruby Block Converter
 - Ruby Hash Converter
 - SideBarEnhancements
-- sublime-gem-browser
 - SublimeGit
 - ToggleQuotes
 
