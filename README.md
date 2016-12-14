@@ -69,6 +69,8 @@ These are the installed packages:
 - Ruby Hash Converter
 - SideBarEnhancements
 - SublimeGit
+- SublimeLinter
+- SublimeLinter-rubocop
 - ToggleQuotes
 
 ### Contributing
