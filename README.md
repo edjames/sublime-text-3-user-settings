@@ -58,6 +58,7 @@ These are the installed packages:
 - BeautifyRuby
 - Babel
 - Boxy Theme
+- Color Highlighter
 - DashDoc
 - Gem Browser
 - GitGutter
