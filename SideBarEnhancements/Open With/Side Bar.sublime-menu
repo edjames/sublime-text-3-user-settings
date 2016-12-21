@@ -6,17 +6,28 @@
 			//separator
 			{"caption":"-"},
 
-			{
-				"caption": "Mou",
-				"id": "side-bar-files-open-with-mou",
+      {
+        "caption": "BBEdit",
+        "id": "side-bar-files-open-with-bbedit",
 
-				"command": "side_bar_files_open_with",
-				"args": {
-									"paths": [],
-									"application": "Mou.app", // OSX
-									"extensions":"md"  //any file with these extensions
-								}
-			}
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "BBEdit.app", // OSX
+                  "extensions":"md"  //any file with these extensions
+                }
+      },
+      {
+        "caption": "Mou",
+        "id": "side-bar-files-open-with-mou",
+
+        "command": "side_bar_files_open_with",
+        "args": {
+                  "paths": [],
+                  "application": "Mou.app", // OSX
+                  "extensions":"md"  //any file with these extensions
+                }
+      }
 		]
 	}
 ]
