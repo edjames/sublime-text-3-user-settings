@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+wont_be_within_epsilon ${1:m} [, epsilon]
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>wbwe</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+assert_includes(${1:collection}, ${2:obj})
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>mai</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>

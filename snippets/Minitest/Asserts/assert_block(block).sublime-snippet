@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+assert_block(${1:block})
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>mab</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>

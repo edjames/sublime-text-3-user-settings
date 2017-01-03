@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+exception_details(#{1:e}, ${2:msg})
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>med</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+wont_respond_to ${1:msg}
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>wrt</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>

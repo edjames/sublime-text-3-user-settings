@@ -1,0 +1,15 @@
+<snippet>
+   <content><![CDATA[
+describe ${1:'Description' or Object} do
+
+  it '${2:must do something}' do
+     ${3: your_code}
+  end
+  
+end
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>mdi</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>

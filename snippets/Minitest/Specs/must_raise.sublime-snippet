@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+must_raise ${1:exception}
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>mr</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>

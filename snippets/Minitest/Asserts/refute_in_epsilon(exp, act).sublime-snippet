@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+refute_in_epsilon(${1:exp}, ${2:act})
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>mrie</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+</snippet>
