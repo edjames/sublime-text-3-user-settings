@@ -7,24 +7,13 @@
 			{"caption":"-"},
 
       {
-        "caption": "BBEdit",
-        "id": "side-bar-files-open-with-bbedit",
+        "caption": "ia Writer",
+        "id": "side-bar-files-open-with-ia-writer",
 
         "command": "side_bar_files_open_with",
         "args": {
                   "paths": [],
-                  "application": "BBEdit.app", // OSX
-                  "extensions":"md"  //any file with these extensions
-                }
-      },
-      {
-        "caption": "Mou",
-        "id": "side-bar-files-open-with-mou",
-
-        "command": "side_bar_files_open_with",
-        "args": {
-                  "paths": [],
-                  "application": "Mou.app", // OSX
+                  "application": "ia Writer.app", // OSX
                   "extensions":"md"  //any file with these extensions
                 }
       }
