@@ -25,6 +25,7 @@
         {
             "name": "ShellScript/Shell-Unix-Generic",
             "rules": [
+                {"file_name": ".*\\Dockerfile$"},
                 {"file_name": ".*\\.after-mac-dots$"},
                 {"file_name": ".*\\.before-mac-dots$"},
                 {"file_name": ".*\\.macdots_function$"},
