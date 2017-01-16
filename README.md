@@ -57,6 +57,7 @@ These are the installed packages:
 - Babel
 - BeautifyRuby
 - Babel
+- Better Coffeescript
 - Boxy Theme
 - Color Highlighter
 - DashDoc
