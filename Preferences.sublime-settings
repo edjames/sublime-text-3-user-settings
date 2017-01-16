@@ -113,7 +113,7 @@
 	"overlay_scroll_bars": "system",
 	"rulers": false,
 	"scroll_past_end": true,
-  "show_definitions": false,
+	"show_definitions": false,
 	"show_encoding": true,
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
