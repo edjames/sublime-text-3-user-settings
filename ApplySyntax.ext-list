@@ -12,6 +12,10 @@
 		".jshintrc",
 		"geojson"
 	],
+	"Ruby Slim":
+	[
+		"emblem"
+	],
 	"YAML":
 	[
 		"YAML-tmLanguage"

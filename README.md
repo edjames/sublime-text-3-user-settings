@@ -69,10 +69,12 @@ These are the installed packages:
 - RSpec
 - Ruby Block Converter
 - Ruby Hash Converter
+- RubySlim
 - SideBarEnhancements
 - SublimeGit
 - SublimeLinter
 - SublimeLinter-rubocop
+- SublimeLinter-slim-lint
 - ToggleQuotes
 
 ### Contributing
