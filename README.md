@@ -73,6 +73,8 @@ These are the installed packages:
 - SideBarEnhancements
 - SublimeGit
 - SublimeLinter
+- SublimeLinter-coffeelint
+- SublimeLinter-jshint
 - SublimeLinter-rubocop
 - SublimeLinter-slim-lint
 - ToggleQuotes
