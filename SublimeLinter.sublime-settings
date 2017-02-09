@@ -33,7 +33,7 @@
         "passive_warnings": false,
         "paths": {
             "osx": [
-                "/usr/local/opt/rbenv/shims"
+                "~/.asdf/shims"
             ]
         },
         "python_paths": {
