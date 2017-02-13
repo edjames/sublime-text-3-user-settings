@@ -1,7 +1,8 @@
 {
 	"HTML (Rails)":
 	[
-		"html.erb"
+		"html.erb",
+		"liquid"
 	],
 	"JSON":
 	[

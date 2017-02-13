@@ -11,7 +11,7 @@
     // Put your custom syntax rules here:
     "syntaxes": [
         {
-            "name": "Ruby/Ruby",
+            "syntax": "Ruby/Ruby",
             "rules": [
                 {"file_name": ".*\\.cap$"},
                 {"file_name": ".*\\.irbrc$"},
@@ -23,7 +23,11 @@
             ]
         },
         {
-            "name": "ShellScript/Shell-Unix-Generic",
+            "syntax": "Rails/HTML (Rails)",
+            "extensions": ["html.erb", "liquid"]
+        },
+        {
+            "syntax": "ShellScript/Shell-Unix-Generic",
             "rules": [
                 {"file_name": ".*\\Dockerfile$"},
                 {"file_name": ".*\\.after-mac-dots$"},
