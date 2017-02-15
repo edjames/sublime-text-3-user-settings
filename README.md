@@ -61,7 +61,6 @@ These are the installed packages:
 - Boxy Theme
 - Color Highlighter
 - DashDoc
-- Gem Browser
 - GitGutter
 - jQuery
 - JsFormat
