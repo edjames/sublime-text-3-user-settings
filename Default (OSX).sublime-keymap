@@ -27,5 +27,8 @@
   { "keys": ["super+shift+;"], "command": "toggle_symbol" },
 
   // Close all other tabs
-  { "keys": ["super+alt+w"], "command": "close_other_tabs" }
+  { "keys": ["super+alt+w"], "command": "close_other_tabs" },
+
+  // alignment
+  { "keys": ["super+alt+a"], "command": "alignment" }
 ]
