@@ -1,4 +1,8 @@
 {
+	"CSS":
+	[
+		"scss"
+	],
 	"HTML (Rails)":
 	[
 		"html.erb",

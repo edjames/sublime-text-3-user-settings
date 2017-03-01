@@ -11,6 +11,10 @@
     // Put your custom syntax rules here:
     "syntaxes": [
         {
+            "syntax": "CSS/CSS",
+            "extensions": ["scss"]
+        },
+        {
             "syntax": "Ruby/Ruby",
             "rules": [
                 {"file_name": ".*\\.cap$"},
