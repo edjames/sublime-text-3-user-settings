@@ -70,6 +70,7 @@ These are the installed packages:
 - Ruby Hash Converter
 - RubySlim
 - SideBarEnhancements
+- sublime-github
 - SublimeGit
 - SublimeLinter
 - SublimeLinter-coffeelint
