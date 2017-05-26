@@ -38,6 +38,7 @@
                 {"file_name": ".*\\.before-mac-dots$"},
                 {"file_name": ".*\\.macdots_function$"},
                 {"file_name": ".*\\.conf$"},
+                {"file_name": ".*\\.env$"},
                 {"file_name": ".*\\.symlink.*$"}
             ]
         }

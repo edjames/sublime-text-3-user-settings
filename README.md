@@ -60,6 +60,7 @@ These are the installed packages:
 - Better Coffeescript
 - Boxy Theme
 - Color Highlighter
+- Copy Relative Path
 - DashDoc
 - GitGutter
 - jQuery
