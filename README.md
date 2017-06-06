@@ -66,6 +66,7 @@ These are the installed packages:
 - jQuery
 - JsFormat
 - PackageResourceViewer
+- RawLineEdit
 - RSpec
 - Ruby Block Converter
 - Ruby Hash Converter
