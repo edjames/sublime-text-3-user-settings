@@ -18,10 +18,10 @@
             "syntax": "Ruby/Ruby",
             "rules": [
                 {"file_name": ".*\\.cap$"},
+                {"file_name": ".*\\.god$"},
                 {"file_name": ".*\\.irbrc$"},
                 {"file_name": ".*\\.procsrc$"},
                 {"file_name": ".*\\.railsrc$"},
-                {"file_name": ".*\\.god$"},
                 {"file_name": ".*\\Cheffile$"},
                 {"file_name": ".*\\Procfile$"}
             ]
@@ -33,13 +33,14 @@
         {
             "syntax": "ShellScript/Shell-Unix-Generic",
             "rules": [
-                {"file_name": ".*\\Dockerfile$"},
                 {"file_name": ".*\\.after-mac-dots$"},
                 {"file_name": ".*\\.before-mac-dots$"},
-                {"file_name": ".*\\.macdots_function$"},
+                {"file_name": ".*\\.cfg$"},
                 {"file_name": ".*\\.conf$"},
                 {"file_name": ".*\\.env$"},
-                {"file_name": ".*\\.symlink.*$"}
+                {"file_name": ".*\\.macdots_function$"},
+                {"file_name": ".*\\.symlink.*$"},
+                {"file_name": ".*\\Dockerfile$"}
             ]
         }
     ]
