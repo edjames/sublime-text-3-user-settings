@@ -91,9 +91,11 @@
 		"bundle",
 		"coverage",
 		"design0n1y",
+		"node_modules",
 		"public/assets",
 		"log",
-		"tmp"
+		"tmp",
+		"vendor/assets/components"
 	],
 	"font_face": "Monaco",
 	"font_size": 13,

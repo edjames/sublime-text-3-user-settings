@@ -1,7 +1,7 @@
 {
 	"extensions":
 	[
-		"liquid",
-		"html.erb"
+		"html.erb",
+		"liquid"
 	]
 }
