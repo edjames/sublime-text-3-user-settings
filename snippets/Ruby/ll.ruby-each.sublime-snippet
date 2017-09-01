@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+LoudLogger.log "${1:tag}: #{${2:output}}"
+]]></content>
+  <tabTrigger>ll</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>LoudLogger</description>
+</snippet>
