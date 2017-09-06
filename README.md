@@ -80,6 +80,7 @@ These are the installed packages:
 - SublimeLinter-rubocop
 - SublimeLinter-slim-lint
 - ToggleQuotes
+- Vue Syntax Highlight
 
 ### Contributing
 
