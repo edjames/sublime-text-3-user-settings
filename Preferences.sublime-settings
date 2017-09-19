@@ -92,7 +92,7 @@
 		"coverage",
 		"design0n1y",
 		"node_modules",
-    "public/assets",
+		"public/assets",
 		"public/packs-test",
 		"log",
 		"tmp",
