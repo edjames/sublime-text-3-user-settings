@@ -1,0 +1,16 @@
+<snippet>
+   <content><![CDATA[
+require 'test_helper'
+
+class ${1:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:\.rb)?/(?2::\u$1)/g}} < ActiveSupport::TestCase
+
+  $0
+
+end
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>astc</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <scope>source.ruby</scope>
+   <description>template for ActiveSupport::TestCase</description>
+</snippet>
