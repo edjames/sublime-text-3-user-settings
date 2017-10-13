@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-capture_io()
+capture_io
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mcio</tabTrigger>

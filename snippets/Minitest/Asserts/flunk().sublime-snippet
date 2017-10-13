@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-flunk()
+flunk
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mfl</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-refute_operator(${1:o1}, ${2:op}, ${3:o2})
+refute_operator ${1:o1}, ${2:op}, ${3:o2}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mro</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_in_delta(${1:exp}, ${2:act})
+assert_in_delta ${1:exp}, ${2:act}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>maid</tabTrigger>

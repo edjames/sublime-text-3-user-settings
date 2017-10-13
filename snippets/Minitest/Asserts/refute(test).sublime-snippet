@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-refute(${1:test})
+refute ${1:test}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mref</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_send(${1:send_ary})
+assert_send ${1:send_ary}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>masd</tabTrigger>

@@ -2,9 +2,15 @@
    <content><![CDATA[
 require 'test_helper'
 
-class ${1:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:\.rb)?/(?2::\u$1)/g}} < ActiveSupport::TestCase
+class ${1:module::}${2:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:\.rb)?/(?2::\u$1)/g}} < ActiveSupport::TestCase
 
-  $0
+  def setup
+    $0
+  end
+
+  def test_this
+    true
+  end
 
 end
 ]]></content>

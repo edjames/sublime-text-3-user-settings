@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_silent()
+assert_silent
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mast</tabTrigger>

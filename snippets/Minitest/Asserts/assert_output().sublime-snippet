@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_output()
+assert_output
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mao</tabTrigger>

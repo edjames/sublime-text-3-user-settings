@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_throws(${1:sym})
+assert_throws ${1:sym}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mat</tabTrigger>

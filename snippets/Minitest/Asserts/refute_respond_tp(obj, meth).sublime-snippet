@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-refute_respond_to(${1:obj}, ${2:meth})
+refute_respond_to ${1:obj}, ${2:meth}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mrrt</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_raises(${1:exp})
+assert_raises ${1:exp}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mar</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_kind_of(${1:cls}, ${2:obj})
+assert_kind_of ${1:cls}, ${2:obj}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mako</tabTrigger>

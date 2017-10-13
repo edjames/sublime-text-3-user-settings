@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_empty(${1:obj})
+assert_empty ${1:obj}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>maey</tabTrigger>

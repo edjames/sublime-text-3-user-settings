@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-refute_nil(${1:obj})
+refute_nil ${1:obj}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mrn</tabTrigger>

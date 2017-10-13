@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_nil(${1:obj})
+assert_nil ${1:obj}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>man</tabTrigger>

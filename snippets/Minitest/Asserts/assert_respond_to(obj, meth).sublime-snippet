@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-assert_respond_to(${1:obj}, ${2:meth})
+assert_respond_to ${1:obj}, ${2:meth}
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>mart</tabTrigger>
