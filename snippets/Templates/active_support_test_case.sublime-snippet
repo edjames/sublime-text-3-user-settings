@@ -5,11 +5,11 @@ require 'test_helper'
 class ${1:module::}${2:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:\.rb)?/(?2::\u$1)/g}} < ActiveSupport::TestCase
 
   def setup
-    $0
+    @klass = ${1:module::}${2:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:\.rb)?/(?2::\u$1)/g}}${3}
   end
 
   def test_this
-    true
+    ${0:flunk}
   end
 
 end
