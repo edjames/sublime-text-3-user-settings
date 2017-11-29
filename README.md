@@ -51,26 +51,24 @@ Restart ST3.
 Package Control settings are not in source control.
 These are the installed packages:
 
+- A File Icon
 - AdvancedNewFile
 - Alignment
 - ApplySyntax
+- ayu
 - Babel
 - BeautifyRuby
-- Babel
 - Better Coffeescript
-- Boxy Theme
-- Color Highlighter
 - Copy Relative Path
 - DashDoc
 - GitGutter
 - jQuery
 - JsFormat
 - PackageResourceViewer
-- RawLineEdit
 - RSpec
 - Ruby Block Converter
 - Ruby Hash Converter
-- RubySlim
+- Ruby Slim
 - SideBarEnhancements
 - sublime-github
 - SublimeGit
