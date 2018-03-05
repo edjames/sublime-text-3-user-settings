@@ -92,10 +92,11 @@
 		"coverage",
 		"design0n1y",
 		"node_modules",
-    "postgres/data*",
-    "postgres/snapshots*",
+		"postgres/data*",
+		"postgres/snapshots*",
 		"public/assets",
 		"public/packs-test",
+		"public/_tenants/mkuh/SPA",
 		"log",
 		"tmp",
 		"vendor/assets/components"
