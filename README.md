@@ -56,14 +56,13 @@ These are the installed packages:
 - Alignment
 - ApplySyntax
 - ayu
-- Babel
 - BeautifyRuby
 - Better Coffeescript
 - Copy Relative Path
+- DA UI
 - DashDoc
 - GitGutter
 - jQuery
-- JsFormat
 - PackageResourceViewer
 - RSpec
 - Ruby Block Converter
@@ -73,8 +72,6 @@ These are the installed packages:
 - sublime-github
 - SublimeGit
 - SublimeLinter
-- SublimeLinter-coffeelint
-- SublimeLinter-jshint
 - SublimeLinter-rubocop
 - SublimeLinter-slim-lint
 - ToggleQuotes
