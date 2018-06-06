@@ -72,6 +72,7 @@ These are the installed packages:
 - sublime-github
 - SublimeGit
 - SublimeLinter
+- SublimeLinter-eslint
 - SublimeLinter-rubocop
 - SublimeLinter-slim-lint
 - ToggleQuotes

@@ -5,6 +5,12 @@
   "gutter_theme": "Packages/Boxy Theme/extras/SublimeLinter/Boxy.gutter-theme",
   "lint_mode": "background",
   "linters": {
+      "eslint": {
+          "@disable": false,
+          "args": [],
+          "excludes": [],
+          "selector": "text.html, source.js - meta-attribute-with-value"
+      },
       "rubocop": {
           "@disable": false,
           "args": [],
