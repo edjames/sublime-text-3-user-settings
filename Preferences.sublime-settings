@@ -45,6 +45,10 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
+	"env":
+	{
+		"PATH": "/Users/ed/.asdf/shims"
+	},
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
@@ -121,11 +125,11 @@
 	"scroll_past_end": true,
 	"show_definitions": false,
 	"show_encoding": true,
-	"skin": "ayu/ayu dark",
+	"skin": "DA UI/Minimal",
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
 	"tab_size": 2,
-	"theme": "ayu-mirage.sublime-theme",
+	"theme": "DA.sublime-theme",
 	"theme_accent_lime": true,
 	"theme_find_panel_close_hidden": true,
 	"theme_icons_materialized": true,
