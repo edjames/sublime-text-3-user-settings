@@ -1,6 +1,7 @@
 .DS_STORE
 *.last-run
 *.pyc
+oscrypto-ca-bundle.crt
 Package\ Control.sublime-settings
 Package Control.cache
 Package Control.merged-ca-bundle
