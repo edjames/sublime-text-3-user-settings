@@ -1,7 +1,5 @@
 {
 	"extensions":
 	[
-		"liquid",
-		"html.erb"
 	]
 }

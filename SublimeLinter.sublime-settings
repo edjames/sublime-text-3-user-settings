@@ -29,6 +29,11 @@
       ]
   },
   "show_marks_in_minimap": true,
+  "styles": [
+    {
+      "mark_style": "squiggly_underline"
+    }
+  ],
   "syntax_map": {
       "coffeescript (gulpfile)": "coffeescript",
       "html (django)": "html",
