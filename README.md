@@ -51,17 +51,13 @@ Restart ST3.
 Package Control settings are not in source control.
 These are the installed packages:
 
-- A File Icon
 - AdvancedNewFile
 - Alignment
 - ApplySyntax
-- ayu
 - BeautifyRuby
 - Better Coffeescript
 - Copy Relative Path
-- DA UI
 - DashDoc
-- GitGutter
 - jQuery
 - PackageResourceViewer
 - RSpec
