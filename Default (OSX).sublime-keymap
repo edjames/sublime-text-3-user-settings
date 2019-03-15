@@ -1,20 +1,45 @@
 [
   // override defaults
+  { "keys": ["super+t"], "command": "unbound" },
   { "keys": ["super+ctrl+v"], "command": "unbound" },
   { "keys": ["super+ctrl+t"], "command": "unbound" },
 
   // advanced new file
   { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
 
-  // Simple Rails Nav
-  { "keys": ["super+ctrl+m"], "command": "list_rails_models" },
-  { "keys": ["super+ctrl+c"], "command": "list_rails_controllers" },
-  { "keys": ["super+ctrl+v"], "command": "list_rails_views" },
-  { "keys": ["super+ctrl+h"], "command": "list_rails_helpers" },
-  { "keys": ["super+ctrl+x"], "command": "list_rails_fixtures" },
-  { "keys": ["super+ctrl+t"], "command": "list_rails_tests" },
-  { "keys": ["super+ctrl+j"], "command": "list_rails_javascripts" },
-  { "keys": ["super+ctrl+y"], "command": "list_rails_stylesheets" },
+  // Rails app navigation
+  { "keys": ["super+ctrl+j"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/assets/javascripts/"} },
+  { "keys": ["super+ctrl+s"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/assets/stylesheets/"} },
+  { "keys": ["super+ctrl+u"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/javascript/"} },
+  { "keys": ["super+ctrl+v"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/views/"} },
+
+  // Rails app navigation (with tests)
+  { "keys": ["super+t", "super+c"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/controllers/"} },
+  { "keys": ["shift+super+t", "super+c"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/controllers/"} },
+  { "keys": ["super+t", "super+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/core/"} },
+  { "keys": ["shift+super+t", "super+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/core/"} },
+  { "keys": ["super+t", "super+d"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/domain/"} },
+  { "keys": ["shift+super+t", "super+d"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/domain/"} },
+  { "keys": ["super+t", "super+a"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/handlers/"} },
+  { "keys": ["shift+super+t", "super+a"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/handlers/"} },
+  { "keys": ["super+t", "super+h"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/helpers/"} },
+  { "keys": ["shift+super+t", "super+h"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/helpers/"} },
+  { "keys": ["super+t", "super+m"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/models/"} },
+  { "keys": ["shift+super+t", "super+m"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/models/"} },
+  { "keys": ["super+t", "super+j"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/jobs/"} },
+  { "keys": ["shift+super+t", "super+j"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/jobs/"} },
+  { "keys": ["super+t", "super+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/presenters/"} },
+  { "keys": ["shift+super+t", "super+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/presenters/"} },
+  { "keys": ["super+t", "super+q"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/queries/"} },
+  { "keys": ["shift+super+t", "super+q"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/queries/"} },
+  { "keys": ["super+t", "super+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/rules/"} },
+  { "keys": ["shift+super+t", "super+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/rules/"} },
+  { "keys": ["super+t", "super+z"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/serializers/"} },
+  { "keys": ["shift+super+t", "super+z"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/serializers/"} },
+  { "keys": ["super+t", "super+s"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/services/"} },
+  { "keys": ["shift+super+t", "super+s"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/services/"} },
+  { "keys": ["super+t", "super+v"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/view_objects/"} },
+  { "keys": ["shift+super+t", "super+v"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/view_objects/"} },
 
   // Convert Ruby 1.8 hashes to Ruby 1.9 syntax
   { "keys": ["super+shift+h"], "command": "hash_syntax" },

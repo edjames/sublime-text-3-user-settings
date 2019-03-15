@@ -30,14 +30,6 @@ All packages need to be installed in the same location:
 
     cd "~/Library/Application Support/Sublime Text 3/Packages/"
 
-###### SublimeRailsNav
-
-[https://github.com/noklesta/SublimeRailsNav](https://github.com/noklesta/SublimeRailsNav)
-
-    git clone git://github.com/noklesta/SublimeRailsNav
-    cd SublimeRailsNav
-    git checkout ST3
-
 ###### SublimeToggleSymbol
 
 [https://github.com/zoomix/SublimeToggleSymbol](https://github.com/zoomix/SublimeToggleSymbol)

@@ -108,10 +108,6 @@
 		"vendor/assets/components"
 	],
 	"font_face": "Monaco",
-	"font_options":
-	[
-		"gray_antialias"
-	],
 	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -131,7 +127,7 @@
 	"material_theme_accent_orange": false,
 	"material_theme_accent_purple": false,
 	"material_theme_accent_red": false,
-	"material_theme_accent_yellow": true,
+	"material_theme_accent_yellow": false,
 	"material_theme_bold_tab": true,
 	"material_theme_compact_panel": true,
 	"material_theme_compact_sidebar": true,
