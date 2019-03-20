@@ -9,9 +9,13 @@
   // advanced new file
   { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
 
+  // alignment
+  { "keys": ["alt+ctrl+a"], "command": "alignment" },
+
   // Rails app navigation
   { "keys": ["super+ctrl+j"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/assets/javascripts/"} },
   { "keys": ["super+ctrl+s"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/assets/stylesheets/"} },
+  { "keys": ["super+ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "lib/tasks/"} },
   { "keys": ["super+ctrl+u"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/javascript/"} },
   { "keys": ["super+ctrl+v"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/views/"} },
 
@@ -30,6 +34,8 @@
   { "keys": ["shift+super+t", "super+m"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/models/"} },
   { "keys": ["super+t", "super+j"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/jobs/"} },
   { "keys": ["shift+super+t", "super+j"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/jobs/"} },
+  { "keys": ["super+t", "super+l"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/lib/"} },
+  { "keys": ["shift+super+t", "super+l"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/lib/"} },
   { "keys": ["super+t", "super+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/presenters/"} },
   { "keys": ["shift+super+t", "super+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "test/presenters/"} },
   { "keys": ["super+t", "super+q"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/queries/"} },
