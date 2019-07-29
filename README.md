@@ -49,8 +49,9 @@ These are the installed packages:
 - BeautifyRuby
 - Better Coffeescript
 - Copy Relative Path
-- DashDoc
+- HTML-CSS-JS Prettify
 - jQuery
+- Origami
 - PackageResourceViewer
 - RSpec
 - Ruby Block Converter
@@ -62,7 +63,6 @@ These are the installed packages:
 - SublimeLinter
 - SublimeLinter-eslint
 - SublimeLinter-rubocop
-- SublimeLinter-slim-lint
 - ToggleQuotes
 - Vue Syntax Highlight
 
