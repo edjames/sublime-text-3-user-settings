@@ -38,6 +38,8 @@
                 {"file_name": ".*\\.cfg$"},
                 {"file_name": ".*\\.conf$"},
                 {"file_name": ".*\\.env$"},
+                {"file_name": ".*\\.env.*$"},
+                {"file_name": ".*\\.envrc$"},
                 {"file_name": ".*\\.macdots_function$"},
                 {"file_name": ".*\\.symlink.*$"},
                 {"file_name": ".*\\Dockerfile$"}

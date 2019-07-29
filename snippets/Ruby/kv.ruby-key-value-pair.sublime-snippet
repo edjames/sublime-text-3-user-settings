@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:name}: "${2:value}"
+${1:name}: ${2:value}
 ]]></content>
   <tabTrigger>kv</tabTrigger>
   <scope>source.ruby</scope>
