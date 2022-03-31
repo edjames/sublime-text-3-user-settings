@@ -9,16 +9,11 @@
           "@disable": false,
           "args": [],
           "excludes": [],
-          "selector": "text.html, source.js - meta-attribute-with-value"
+          "selector": "text.html, text.html.vue, source.js - meta-attribute-with-value"
       },
       "rubocop": {
           "@disable": false,
-          "args": [],
-          "excludes": []
-      },
-      "slimlint": {
-          "@disable": false,
-          "args": [],
+          "args": ["--config", ".rubocop.yml"],
           "excludes": []
       }
   },

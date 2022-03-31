@@ -5,16 +5,16 @@
 		"sh",
 		"zsh"
 	],
-	"CSS":
+	/*"CSS":
 	[
 		"scss"
-	],
-	"HTML (Rails)":
+	],*/
+	/*"HTML (Rails)":
 	[
 		"html.erb",
 		"liquid"
-	],
-	"JSON":
+	],*/
+	/*"JSON":
 	[
 		".bowerrc",
 		".csslintrc",
@@ -22,13 +22,30 @@
 		".jscsrc",
 		".jshintrc",
 		"geojson"
+	],*/
+	/*"Ruby Slim":
+	[
+		"emblem"
+	],*/
+	/*"YAML":
+	[
+		"YAML-tmLanguage"
+	],*/
+	"CSS":
+	[
+		"scss"
 	],
 	"Ruby Slim":
 	[
 		"emblem"
 	],
+	"HTML (Rails)":
+	[
+		"html.erb",
+		"liquid"
+	],
 	"YAML":
 	[
 		"YAML-tmLanguage"
-	]
+	],
 }

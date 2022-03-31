@@ -15,15 +15,33 @@
             "extensions": ["scss"]
         },
         {
+            "syntax": "YAML/YAML",
+            "rules": [
+                {"file_path": ".*\\.yml$"},
+                {"file_path": ".*\\.yml.demo$"},
+                {"file_path": ".*\\.yml.prod$"},
+                {"file_path": ".*\\.yml.proto1$"},
+                {"file_path": ".*\\.yml.proto2$"},
+                {"file_path": ".*\\.yml.proto3$"},
+                {"file_path": ".*\\.yml.qa$"},
+                {"file_path": ".*\\.yml.sandbox$"},
+                {"file_path": ".*\\.yml.staging$"},
+                {"file_path": ".*\\.yml.test$"},
+                {"file_path": ".*\\.yml.uat$"}
+            ]
+        },
+        {
             "syntax": "Ruby/Ruby",
             "rules": [
-                {"file_name": ".*\\.cap$"},
-                {"file_name": ".*\\.god$"},
-                {"file_name": ".*\\.irbrc$"},
-                {"file_name": ".*\\.procsrc$"},
-                {"file_name": ".*\\.railsrc$"},
-                {"file_name": ".*\\Cheffile$"},
-                {"file_name": ".*\\Procfile$"}
+                {"file_path": ".*\\.cap$"},
+                {"file_path": ".*\\.god$"},
+                {"file_path": ".*\\.irbrc$"},
+                {"file_path": ".*\\.procsrc$"},
+                {"file_path": ".*\\.railsrc$"},
+                {"file_path": ".*\\.tf$"},
+                {"file_path": ".*\\Cheffile$"},
+                {"file_path": ".*\\Procfile$"},
+                {"file_path": ".*\\Procfile.*$"}
             ]
         },
         {
@@ -33,16 +51,17 @@
         {
             "syntax": "ShellScript/Shell-Unix-Generic",
             "rules": [
-                {"file_name": ".*\\.after-mac-dots$"},
-                {"file_name": ".*\\.before-mac-dots$"},
-                {"file_name": ".*\\.cfg$"},
-                {"file_name": ".*\\.conf$"},
-                {"file_name": ".*\\.env$"},
-                {"file_name": ".*\\.env.*$"},
-                {"file_name": ".*\\.envrc$"},
-                {"file_name": ".*\\.macdots_function$"},
-                {"file_name": ".*\\.symlink.*$"},
-                {"file_name": ".*\\Dockerfile$"}
+                {"file_path": ".*\\.after-mac-dots$"},
+                {"file_path": ".*\\.before-mac-dots$"},
+                {"file_path": ".*\\.cfg$"},
+                {"file_path": ".*\\.conf$"},
+                {"file_path": ".*\\.env$"},
+                {"file_path": ".*\\.env.*$"},
+                {"file_path": ".*\\.envrc$"},
+                {"file_path": ".*\\.macdots_function$"},
+                {"file_path": ".*\\.symlink.*$"},
+                {"file_path": ".*\\Dockerfile$"},
+                {"file_path": ".*\\config$"}
             ]
         }
     ]

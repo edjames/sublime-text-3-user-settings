@@ -5,6 +5,10 @@
   { "keys": ["super+t"], "command": "unbound" },
   { "keys": ["super+shift+t"], "command": "unbound" },
   { "keys": ["super+shift+l"], "command": "reopen_last_file" },
+  { "keys": ["super+j"], "command": "join_lines" },
+  { "keys": ["super+ctrl+n"], "command": "new_os_tab" },
+  { "keys": ["super+ctrl+]"], "command": "next_os_tab" },
+  { "keys": ["super+ctrl+["], "command": "prev_os_tab" },
 
   // advanced new file
   { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},
