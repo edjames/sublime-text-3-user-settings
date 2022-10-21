@@ -1,9 +1,12 @@
 {
 	"Bash":
 	[
+		".profile",
+		"ash",
 		"bash",
+		"bashrc",
 		"sh",
-		"zsh"
+		"zsh",
 	],
 	/*"CSS":
 	[
@@ -31,21 +34,83 @@
 	[
 		"YAML-tmLanguage"
 	],*/
-	"CSS":
+	/*"CSS":
 	[
 		"scss"
-	],
-	"Ruby Slim":
+	],*/
+	/*"Ruby Slim":
 	[
 		"emblem"
-	],
+	],*/
+	/*"HTML (Rails)":
+	[
+		"html.erb",
+		"liquid"
+	],*/
+	/*"YAML":
+	[
+		"YAML-tmLanguage"
+	],*/
+	/*"CSS":
+	[
+		"scss"
+	],*/
+	/*"JSON":
+	[
+		".babelrc",
+		".bowerrc",
+		".csslintrc",
+		".eslintrc",
+		".jscsrc",
+		".jshintrc",
+		".stylelintrc",
+		"geojson"
+	],*/
+	/*"HTML (Rails)":
+	[
+		"html.erb",
+		"liquid"
+	],*/
+	/*"YAML":
+	[
+		"YAML-tmLanguage"
+	],*/
+	/*"Ruby Slim":
+	[
+		"emblem"
+	],*/
 	"HTML (Rails)":
 	[
 		"html.erb",
 		"liquid"
 	],
+	"Ruby Slim":
+	[
+		"emblem"
+	],
+	"JSON":
+	[
+		".babelrc",
+		".bowerrc",
+		".csslintrc",
+		".eslintrc",
+		".jscsrc",
+		".jshintrc",
+		".stylelintrc",
+		"geojson"
+	],
+	"Shell-Unix-Generic":
+	[
+		".profile",
+		"ash",
+		"bashrc"
+	],
 	"YAML":
 	[
 		"YAML-tmLanguage"
+	],
+	"CSS":
+	[
+		"scss"
 	],
 }

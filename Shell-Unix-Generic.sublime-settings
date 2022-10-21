@@ -8,7 +8,10 @@
 	"extensions":
 	[
 		"zsh",
+		".profile",
 		"bash",
-		"sh"
-	]
+		"ash",
+		"sh",
+		"bashrc",
+	],
 }

@@ -7,9 +7,9 @@
 	],
 	"extensions":
 	[
-		"yml",
 		"yml.dist",
-		".gemrc",
 		"YAML-tmLanguage",
+		".gemrc",
+		"yml",
 	],
 }

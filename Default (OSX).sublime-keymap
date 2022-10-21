@@ -3,6 +3,7 @@
   { "keys": ["super+ctrl+v"], "command": "unbound" },
   { "keys": ["super+ctrl+t"], "command": "unbound" },
   { "keys": ["super+t"], "command": "unbound" },
+  { "keys": ["super+m"], "command": "unbound" },
   { "keys": ["super+shift+t"], "command": "unbound" },
   { "keys": ["super+shift+l"], "command": "reopen_last_file" },
   { "keys": ["super+j"], "command": "join_lines" },

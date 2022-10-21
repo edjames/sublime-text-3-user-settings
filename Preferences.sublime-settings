@@ -103,6 +103,7 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"overlay_scroll_bars": "enabled",
+  "preview_on_click": true,
 	"rulers": false,
 	"scroll_past_end": true,
 	"show_definitions": false,
