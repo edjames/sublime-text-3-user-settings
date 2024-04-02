@@ -103,14 +103,55 @@
 	[
 		".profile",
 		"ash",
-		"bashrc"
+		"bash",
+		"bashrc",
+		"sh",
+		"zsh",
 	],
 	"YAML":
 	[
-		"YAML-tmLanguage"
+		".gemrc",
+		"YAML-tmLanguage",
+		"yml",
+		"yml.dist",
 	],
 	"CSS":
 	[
 		"scss"
+	],
+	"Ruby":
+	[
+		"jbuilder",
+		"podspec",
+		"rabl",
+		"rake",
+		"rb",
+		"simplecov",
+		"thor"
+	],
+	"XML":
+	[
+		"xml.dist"
+	],
+	"Python":
+	[
+		"py3",
+		"pyw"
+	],
+	"PHP":
+	[
+		"inc",
+		"php3",
+		"php4",
+		"php5",
+		"phtml"
+	],
+	"Ruby Haml":
+	[
+		"haml"
+	],
+	"HAML":
+	[
+		"haml"
 	],
 }

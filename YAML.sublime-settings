@@ -1,15 +1,15 @@
 {
-	"apply_syntax_extensions":
+	/*"apply_syntax_extensions":
 	[
 		"yml.dist",
 		"yml",
 		".gemrc"
-	],
+	],*/
 	"extensions":
 	[
-		"yml.dist",
-		"YAML-tmLanguage",
-		".gemrc",
 		"yml",
+		"yml.dist",
+		".gemrc",
+		"YAML-tmLanguage",
 	],
 }

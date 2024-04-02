@@ -1,10 +1,10 @@
 {
-	"apply_syntax_extensions":
+	/*"apply_syntax_extensions":
 	[
 		"haml"
-	],
+	],*/
 	"extensions":
 	[
 		"haml"
-	]
+	],
 }

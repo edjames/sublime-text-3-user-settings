@@ -1,17 +1,17 @@
 {
-	"apply_syntax_extensions":
+	/*"apply_syntax_extensions":
 	[
 		"zsh",
 		"bash",
 		"sh"
-	],
+	],*/
 	"extensions":
 	[
-		"zsh",
-		".profile",
-		"bash",
-		"ash",
 		"sh",
 		"bashrc",
+		"zsh",
+		"ash",
+		"bash",
+		".profile",
 	],
 }

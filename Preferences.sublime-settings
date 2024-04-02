@@ -114,4 +114,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~",
 	"word_wrap": false,
+	"index_files": true,
 }

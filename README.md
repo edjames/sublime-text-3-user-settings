@@ -12,7 +12,7 @@ Once you have ST3 running, you're ready to proceed...
 
 Open a Terminal and run these commands:
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+    cd ~/Library/Application\ Support/Sublime\ Text/Packages
     rm -rf User
     git clone git@github.com:edjames/sublime-text-3-user-settings.git User
 
@@ -21,22 +21,6 @@ Restart ST3.
 ### Cheatsheet
 
 [http://www.cheatography.com/grokling/cheat-sheets/sublime-text-3-for-rails/](http://www.cheatography.com/grokling/cheat-sheets/sublime-text-3-for-rails/)
-
-### Post-installation
-
-Some plugins are not yet available through Package Control (yet) so they have ot be manually installed, as follows:
-
-All packages need to be installed in the same location:
-
-    cd "~/Library/Application Support/Sublime Text 3/Packages/"
-
-###### SublimeToggleSymbol
-
-[https://github.com/zoomix/SublimeToggleSymbol](https://github.com/zoomix/SublimeToggleSymbol)
-
-    git clone git://github.com/zoomix/SublimeToggleSymbol
-
-Restart ST3.
 
 ### Installed packages
 
@@ -47,7 +31,6 @@ These are the installed packages:
 - Alignment
 - ApplySyntax
 - BeautifyRuby
-- Better Coffeescript
 - Copy Relative Path
 - HTML-CSS-JS Prettify
 - jQuery
@@ -64,7 +47,6 @@ These are the installed packages:
 - SublimeLinter-eslint
 - SublimeLinter-rubocop
 - ToggleQuotes
-- Vue Syntax Highlight
 
 ### Contributing
 

@@ -1,5 +1,5 @@
 {
-	"apply_syntax_extensions":
+	/*"apply_syntax_extensions":
 	[
 		"podspec",
 		"thor",
@@ -8,15 +8,15 @@
 		"rb",
 		"rabl",
 		"jbuilder"
-	],
+	],*/
 	"extensions":
 	[
-		"podspec",
-		"thor",
-		"rake",
-		"simplecov",
 		"rb",
+		"thor",
+		"simplecov",
+		"jbuilder",
+		"rake",
 		"rabl",
-		"jbuilder"
-	]
+		"podspec"
+	],
 }
