@@ -10,13 +10,16 @@ Once you have ST3 running, you're ready to proceed...
 
 ### Installation
 
-Open a Terminal and run these commands:
+- Open a Terminal and run these commands:
 
-    cd ~/Library/Application\ Support/Sublime\ Text/Packages
-    rm -rf User
-    git clone git@github.com:edjames/sublime-text-3-user-settings.git User
+```bash
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+rm -rf User
+git clone git@github.com:edjames/sublime-text-3-user-settings.git User
+```
 
-Restart ST3.
+- Restart ST3.
+- Ensure you have Package Control installed; if not, install it and restart ST3 once more.
 
 ### Cheatsheet
 
@@ -24,7 +27,12 @@ Restart ST3.
 
 ### Installed packages
 
-Package Control settings are not in source control.
+**Pro tip:** Instead of installing each package separately, use the "Package Control: Advanced Install Packages" command, and use this comma-separated list do do it all in one go:
+
+```
+AdvancedNewFile, Alignment, ApplySyntax, BeautifyRuby, Copy Relative Path, HTML-CSS-JS Prettify, jQuery, Origami, PackageResourceViewer, RSpec, Ruby Block Converter, Ruby Hash Converter, Ruby Slim, SideBarEnhancements, sublime-github, SublimeGit, SublimeLinter, SublimeLinter-eslint, SublimeLinter-rubocop, ToggleQuotes
+```
+
 These are the installed packages:
 
 - AdvancedNewFile
@@ -60,9 +68,9 @@ If you want to contribute:
 - Send me a pull request
 
 ### Credits
+
 - Snippets from [https://github.com/tennantje/railsdev-sublime-snippets](https://github.com/tennantje/railsdev-sublime-snippets)
 
 ### Copyright
 
-Copyright (c) 2015 Ed James. See LICENSE for details.
-
+Copyright (c) 2024 Ed James. See LICENSE for details.
