@@ -54,6 +54,7 @@
 		".hg",
 		".idea",
 		".rbx",
+    ".ruby-lsp",
 		".sass-cache",
 		".svn",
 		".vscode",
